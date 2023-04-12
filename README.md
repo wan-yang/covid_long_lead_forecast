@@ -1,4 +1,4 @@
-# COVID-19 long lead forecast study
+# COVID-19 long-lead forecast study
 
 ### data
 This folder includes all relevant data needed to run the forecast and evaluation
@@ -18,3 +18,5 @@ wy2202 at cumc.columbia.edu
 
 ### reference
 Version 1: Yang W, Shaman J. Sensible Long-lead Forecast of COVID-19 Epidemic Outcomes. medRxiv. 2022:2022.11.14.22282323. doi: 10.1101/2022.11.14.22282323.
+
+Version 2: Yang W, Shaman J. Development of Accurate Long-lead COVID-19 Forecast. medRxiv. 2023:2022.11.14.22282323. doi: 10.1101/2022.11.14.22282323. https://www.medrxiv.org/content/10.1101/2022.11.14.22282323v2
